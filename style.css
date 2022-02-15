@@ -1,0 +1,20 @@
+.comparision{
+    background-color: darksalmon;
+    border-radius: 20px;
+    padding: 30px;
+    font-size: large;
+    color: white;
+}
+b {
+    color: purple;
+}
+li img{
+    border-radius: 30px;
+}
+li b{
+    color: beige;
+}
+.result{
+    text-align: center;
+    color: aqua;
+}
